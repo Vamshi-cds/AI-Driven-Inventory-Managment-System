@@ -1,0 +1,23 @@
+# Ignore Python cache & virtual environment
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+
+# Ignore Java compiled files
+*.class
+*.jar
+target/
+bin/
+
+# Ignore Node.js dependencies
+node_modules/
+package-lock.json
+
+# Ignore system files
+.DS_Store
+
+# Ignore log files
+*.log
+
